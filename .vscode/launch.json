@@ -83,6 +83,26 @@
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"
+        },
+        {
+            "name": "row_ex",
+            "cwd": "row_ex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "row_ex (profile mode)",
+            "cwd": "row_ex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "row_ex (release mode)",
+            "cwd": "row_ex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
         }
     ]
 }

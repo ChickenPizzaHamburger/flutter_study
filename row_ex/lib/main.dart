@@ -24,7 +24,7 @@ class MyColumn extends StatelessWidget {
         title: const Text('MyColumn'),
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
       ),
-      body: Column(
+      body: Row(
         mainAxisAlignment: MainAxisAlignment.end, // 세로축으로 끝점에 정렬
         crossAxisAlignment: CrossAxisAlignment.end, // 가로축으로 끝점에 정렬
         children: [
