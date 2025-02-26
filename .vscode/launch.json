@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "animal_book",
+            "cwd": "animal_book",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "animal_book (profile mode)",
+            "cwd": "animal_book",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "animal_book (release mode)",
+            "cwd": "animal_book",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "basics",
+            "cwd": "basics",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "basics (profile mode)",
+            "cwd": "basics",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "basics (release mode)",
+            "cwd": "basics",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "character_page_app",
+            "cwd": "character_page_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "character_page_app (profile mode)",
+            "cwd": "character_page_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "character_page_app (release mode)",
+            "cwd": "character_page_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "column_ex",
+            "cwd": "column_ex",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "column_ex (profile mode)",
+            "cwd": "column_ex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "column_ex (release mode)",
+            "cwd": "column_ex",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
